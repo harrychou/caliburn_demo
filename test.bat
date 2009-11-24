@@ -1,0 +1,1 @@
+.\tool\machine.specifications.consolerunner --html .\test.html .\caliburn_demo.specs\bin\Debug\caliburn_demo.specs.dll
